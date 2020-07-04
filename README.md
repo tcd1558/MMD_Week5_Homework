@@ -1,2 +1,2 @@
 # MMD_Week5_Homework
-Making Money with Data - Homework for Week 5 
+Making Money with Data - Week 5 Homework 
